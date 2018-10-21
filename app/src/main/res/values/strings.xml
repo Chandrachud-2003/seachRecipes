@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ingredient</string>
+    <string name="aboutButton">ABOUT</string>
+    <string name="multiline_autoCompleteTextView">&#160;Search for any Ingredient</string>
+    <string name="FavoriteText"> FAVORITES</string>
+    <string name="feedbackText">No Saved Recipes</string>
+    <string name="topeRatedButton">TRENDING</string>
+    <string name="Minutes">&#160;Min</string>
+    <string name="unknownCookTime">\?\?\?</string>
+    <string name="about_description">\n\nAPI BY EDAMAM\n\nMADE BY A STUDENT OF VIDYASHILP ACADEMY, BANGALORE\n\nI DO NOT OWN ANY CONTENT SUCH AS IMAGES, RECIPES, ETC.\n\n
+</string>
+
+    <string name="appName">Ingredient</string>
+    <string name="TODO_searchButton">searchForRecipes</string>
+    <string name="deleteButton_contectDescription">Delete the favorite Recipe clicked</string>
+    <string name="favoriteRecipeImage_contentDescription">Image of Favorite Recipe</string>
+    <string name="recipeImg_contentDescription">Recipe Image</string>
+    <string name="favorite_button_contentDescription">Favorite Button</string>
+    <string name="clcokImage_contentDescription">Image View for clock icon</string>
+    <string-array name="Diet">
+        <item>SORT:</item>
+        <item>BALANCED</item>
+        <item>HIGH-PROTEIN</item>
+        <item>HIGH-FIBER</item>
+        <item>LOW_FAT</item>
+        <item>LOW-CARB</item>
+        <item>LOW-SODIUM</item>
+    </string-array>
+</resources>

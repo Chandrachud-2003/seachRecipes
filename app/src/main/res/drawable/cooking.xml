@@ -1,0 +1,16 @@
+
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:color="#FFF" android:width="2dp" />
+    <gradient
+        android:startColor="@color/drk_button"
+        android:endColor="@color/lgt_button"
+        android:angle="90">
+    </gradient>
+
+    <corners android:radius="10dp" />
+
+    <stroke
+        android:width="1px"
+        android:color="@color/drk_button" />
+</shape>
